@@ -24,6 +24,9 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - Which machine learning models offer the best generalization on unseen greenhouse conditions?
    
   **Model Evaluation and Iteration Supervised Learning Tasks**
+
+ - Train-test split
+ - Create a model, train the model (fit) and Predict the result.
  - Correlation matrix
  - Target: class (multiclass classification)
  - Models: Logistic Regression, Decision Trees, KNN, SVM, Naive Bayes, Ensemble models
@@ -57,4 +60,6 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - RandomForestClassifier
  - LabelEncoder, StandardScaler
  - Accuracy_score, classification_report, confusion_matrix.
+# Note: There might be some changes as the reserach is ongoing.
+
 
