@@ -9,7 +9,7 @@ The Advanced IoT Agriculture Dataset captures detailed physiological and morphol
 and how do machine learning techniques help in understanding the impact of IoT on crop health and productivity?"
 
 # Steps to follow:
- To analysis:
+ **To analysis:**
  - Average of chlorophyll in the plant for both IoT and Traditional green house
  - Average plant height rate for both IoT and Traditional green house
  - Average wet weight of the growth vegetative for both IoT and Traditional green house
