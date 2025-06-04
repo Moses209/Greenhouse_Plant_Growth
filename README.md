@@ -60,6 +60,7 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - RandomForestClassifier
  - LabelEncoder, StandardScaler
  - Accuracy_score, classification_report, confusion_matrix.
-# Note: There might be some changes as the reserach is ongoing.
+# Note: 
+ - There might be some changes as the reserach is ongoing.
 
 
