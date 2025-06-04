@@ -2,7 +2,7 @@
 Advanced IoT-Based Smart Greenhouse Dataset (Agriculture Growth Monitoring).
 
 # About Dataset
-The Advanced IoT Agriculture Dataset captures detailed physiological and morphological measurements of plants grown under two greenhouse settings (IoT‑enabled vs. traditional) at Tikrit University’s Agriculture Lab. Compiled by Mohammed Ismail Lifta (2023–2024) under the supervision of Prof. Wisam Dawood Abdullah, it comprises 30,000 records spanning 14 variables that quantify chlorophyll levels, growth rates, biomass (wet/dry weight), root metrics, and more, alongside a final categorical Class label.
+This dataset contains physiological and morphological measurements of plants collected in an experimental study comparing IoT-based greenhouse systems with traditional greenhouses. It includes 30,000 samples with 14 columns representing growth metrics, chlorophyll levels, biomass data, and classification labels. The data was collected as part of a master’s thesis project at Tikrit University, aiming to analyze the effects of technology-driven agriculture.
 
 # Aim Of The Project:
 "Can we accurately predict greenhouse type and analyze plant growth patterns using environmental sensor data, 
