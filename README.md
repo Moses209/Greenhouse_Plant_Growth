@@ -16,12 +16,13 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - To check if their is any influence that can have effect on both Green house types.
  # Step 2:  
   **Model Testing**:
-  **Research Questions to Support Model Test Are**:-
+  **Research Questions to Support Model Testing Are**:-
  - Can environmental sensor data predict whether a plant is grown in a traditional or IoT-based greenhouse?
  - What features most influence classification between greenhouse types?
  - Can we use clustering to discover natural groupings of greenhouse setups without knowing class labels?
  - How do IoT-based setups impact key growth indicators compared to traditional ones?
  - Which machine learning models offer the best generalization on unseen greenhouse conditions?
+   
   **Model Evaluation and Iteration Supervised Learning Tasks**
    Target: class (multiclass classification)
  - Models: Logistic Regression, Decision Trees, KNN, SVM, Naive Bayes, Ensemble models
