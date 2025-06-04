@@ -45,7 +45,7 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - PDMRG	% dry matter in root growth	Float
  - Class	Experimental group label (SA, SB, SC, TA, TB, TC)
    
-# Technologies Used:
+# Technologies To Be Use:
 
  - Python 3.x
  - Jupyter Notebook
