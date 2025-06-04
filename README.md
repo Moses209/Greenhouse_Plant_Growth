@@ -24,8 +24,37 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - Which machine learning models offer the best generalization on unseen greenhouse conditions?
    
   **Model Evaluation and Iteration Supervised Learning Tasks**
-   Target: class (multiclass classification)
+ - Correlation matrix
+ - Target: class (multiclass classification)
  - Models: Logistic Regression, Decision Trees, KNN, SVM, Naive Bayes, Ensemble models
  - Objective: Classify greenhouse type (SA–SC vs TA–TC or just A–C for broader analysis)
  - Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+# Features Inputs Will Be:
+ - Random	Sample batch ID (e.g., R1, R2, R3)	String
+ - ACHP	Average chlorophyll content (photosynthetic pigment)
+ - PHR	Plant height growth rate
+ - AWWGV	Average wet weight of vegetative growth	
+ - ALAP	Average leaf area per plant	
+ - ANPL	Average number of leaves per plant	
+ - ARD	Average root diameter	Float
+ - ADWR	Average dry weight of roots	
+ - PDMVG	% dry matter in vegetative growth	
+ - ARL	Average root length	Float
+ - AWWR	Average wet weight of roots
+ - ADWV	Average dry weight of vegetative parts
+ - PDMRG	% dry matter in root growth	Float
+ - Class	Experimental group label (SA, SB, SC, TA, TB, TC)
    
+# Technologies Used:
+
+ - Python 3.x
+ - Jupyter Notebook
+ - pandas
+ - numpy
+ - matplotlib
+ - KNeighborsClassifier
+ - train_test_split
+ - RandomForestClassifier
+ - LabelEncoder, StandardScaler
+ - Accuracy_score, classification_report, confusion_matrix.
+
