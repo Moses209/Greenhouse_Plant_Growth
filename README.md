@@ -24,6 +24,7 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - Which machine learning models offer the best generalization on unseen greenhouse conditions?
    
   **Model Evaluation and Iteration Supervised Learning Tasks**
+   **To create a model and use Average wet weight of vegetative growth as target**.
 
  - Train-test split
  - Create a model, train the model (fit) and Predict the result.
