@@ -34,20 +34,23 @@ and how do machine learning techniques help in understanding the impact of IoT o
  - Objective: Classify greenhouse type (SA–SC vs TA–TC or just A–C for broader analysis)
  - Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 # Features Inputs Will Be:
- - Random	Sample batch ID (e.g., R1, R2, R3)	String
- - ACHP	Average chlorophyll content (photosynthetic pigment)
- - PHR	Plant height growth rate
- - AWWGV	Average wet weight of vegetative growth	
- - ALAP	Average leaf area per plant	
- - ANPL	Average number of leaves per plant	
- - ARD	Average root diameter	Float
- - ADWR	Average dry weight of roots	
- - PDMVG	% dry matter in vegetative growth	
- - ARL	Average root length	Float
- - AWWR	Average wet weight of roots
- - ADWV	Average dry weight of vegetative parts
- - PDMRG	% dry matter in root growth	Float
- - Class	Experimental group label (SA, SB, SC, TA, TB, TC)
+ - Random	Sample batch ID (e.g., R1, R2, R3):  An identifier for each record, likely indicating a random sample or batch (object type).
+ - ACHP	Average chlorophyll content (photosynthetic pigment): The average chlorophyll content in the plant
+ - PHR	Plant height growth rate: The rate of plant height growth
+ - AWWGV	Average wet weight of vegetative growth: Total fresh weight of the above-ground parts.	
+ - ALAP	Average leaf area per plant: Surface area of leaves which impacts photosynthesis.
+ - ANPL	Average number of leaves per plant: Indicates plant maturity and foliage density.
+ - ARD	Average root diameter	Float: Thickness of roots, relevant to nutrient uptake.
+ - ADWR	Average dry weight of roots: Total root biomass after drying.
+ - PDMVG	% dry matter in vegetative growth: Measures solid content in shoots.	
+ - ARL	Average root length	Float: Indicates root development and depth.
+ - AWWR	Average wet weight of roots: Total fresh root weight.
+ - ADWV	Average dry weight of vegetative parts: Dried mass of above-ground plant parts.
+ - PDMRG	% dry matter in root growth	Float: Solid content of the root system.
+ - Class	Experimental group label (SA, SB, SC, TA, TB, TC): A categorical column indicating the class or category to which the plant record belongs.
+   This could represent different groups or conditions under which the plants were studied or classified.
+     - SA, SB, SC (Traditional Greenhouse),
+     - TA, TB, TC (IoT-based Greenhouse).
    
 # Technologies To Be Use:
 
