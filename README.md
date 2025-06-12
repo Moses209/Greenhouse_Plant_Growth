@@ -1,4 +1,4 @@
-# Greenhouse_Plant_Growth Analysis with Model Prediction
+# Greenhouse_Plant_Growth Analysis Between IoT and Traditional Based Type.
 Advanced IoT-Based Smart Greenhouse Dataset (Agriculture Growth Monitoring).
 
 # About Dataset
