@@ -12,7 +12,7 @@ This dataset contains physiological and morphological measurements of plants col
  - Average of chlorophyll in the plant for both IoT and Traditional green house
  - Average plant height rate for both IoT and Traditional green house
  - Average wet weight of the growth vegetative for both IoT and Traditional green house
- - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWR', 'AWWR', 'ADWV'
+ - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWV' 'ADWR', 'AWWR'. 
  # Step 2:  
   **Creation of Tableau Dashboard**:
  - To show and compare  the average of chlorophyll in the plant for both IoT and Traditional green house 
@@ -44,14 +44,11 @@ This dataset contains physiological and morphological measurements of plants col
  - Python 3.x
  - Jupyter Notebook
  - pandas
- - numpy
+ - Seaborn
  - matplotlib
- - KNeighborsClassifier
- - train_test_split
- - RandomForestClassifier
  - LabelEncoder, StandardScaler
- - Accuracy_score, classification_report, confusion_matrix.
-# Note: 
+   
+ - # Note: 
  - There might be some changes as the reserach is ongoing.
 
 
